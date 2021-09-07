@@ -1,0 +1,9 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.idea
+/.vs
+/admission-pre-msc/bin/Debug/net5.0
+/admission-pre-msc/obj
+/admission-pre-msc/.vs/admission-pre-msc/v16
